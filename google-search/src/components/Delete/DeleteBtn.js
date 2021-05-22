@@ -1,4 +1,4 @@
-import React from './react';
+import React from 'react';
 import './DeleteBtn.css';
 
 function DeleteBtn(props) {
